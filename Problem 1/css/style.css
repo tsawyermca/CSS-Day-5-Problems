@@ -1,0 +1,13 @@
+.bigb{
+    position: relative;
+    left: 80px;
+    height: 500px;
+    background-color: darkgreen;
+}
+
+.lilb{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    background-color: aliceblue;
+}

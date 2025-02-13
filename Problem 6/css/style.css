@@ -1,0 +1,26 @@
+.nav{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.container{
+    position: relative;
+}
+
+.badge{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border: 3px solid darkgray;
+    background-color: gray;
+    z-index: 5;
+}
+
+footer{
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    border: 5px solid cornflowerblue;
+    text-align: center;
+}
